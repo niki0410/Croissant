@@ -1,0 +1,19 @@
+.croissant{
+    width: 400px;
+    margin: 15px auto;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    margin: 25px auto;
+    display: flex;
+    justify-content: center; 
+}
+p{
+    margin: 25px auto;
+    text-align: center;
+    max-width: 900px;
+}
+body{
+    margin-top:70px;
+}
